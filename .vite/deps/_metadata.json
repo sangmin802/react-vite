@@ -1,0 +1,82 @@
+{
+  "hash": "c142a14e",
+  "configHash": "6b365f5a",
+  "lockfileHash": "8743d89e",
+  "browserHash": "5fda2dbf",
+  "optimized": {
+    "react": {
+      "src": "../../../../../.yarn/berry/cache/react-npm-18.2.0-1eae08fee2-10c0.zip/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "a973043b",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../../../../.yarn/berry/cache/react-npm-18.2.0-1eae08fee2-10c0.zip/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "d81f4574",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../../../../.yarn/berry/cache/react-npm-18.2.0-1eae08fee2-10c0.zip/node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "159b8e02",
+      "needsInterop": true
+    },
+    "@emotion/react": {
+      "src": "../../.yarn/__virtual__/@emotion-react-virtual-f644446726/4/.yarn/berry/cache/@emotion-react-npm-11.11.4-52eda8b8fe-10c0.zip/node_modules/@emotion/react/dist/emotion-react.browser.esm.js",
+      "file": "@emotion_react.js",
+      "fileHash": "688a360b",
+      "needsInterop": false
+    },
+    "@emotion/react/jsx-runtime": {
+      "src": "../../.yarn/__virtual__/@emotion-react-virtual-f644446726/4/.yarn/berry/cache/@emotion-react-npm-11.11.4-52eda8b8fe-10c0.zip/node_modules/@emotion/react/jsx-runtime/dist/emotion-react-jsx-runtime.browser.esm.js",
+      "file": "@emotion_react_jsx-runtime.js",
+      "fileHash": "bff5e37a",
+      "needsInterop": false
+    },
+    "@emotion/styled": {
+      "src": "../../.yarn/__virtual__/@emotion-styled-virtual-a1599be49f/4/.yarn/berry/cache/@emotion-styled-npm-11.11.0-9a95c8527d-10c0.zip/node_modules/@emotion/styled/dist/emotion-styled.browser.esm.js",
+      "file": "@emotion_styled.js",
+      "fileHash": "8b438b51",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../.yarn/__virtual__/react-dom-virtual-f72a428b19/4/.yarn/berry/cache/react-dom-npm-18.2.0-dd675bca1c-10c0.zip/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "7290bc74",
+      "needsInterop": true
+    },
+    "@emotion/react/jsx-dev-runtime": {
+      "src": "../../.yarn/__virtual__/@emotion-react-virtual-f644446726/4/.yarn/berry/cache/@emotion-react-npm-11.11.4-52eda8b8fe-10c0.zip/node_modules/@emotion/react/jsx-dev-runtime/dist/emotion-react-jsx-dev-runtime.browser.esm.js",
+      "file": "@emotion_react_jsx-dev-runtime.js",
+      "fileHash": "36cd1e43",
+      "needsInterop": false
+    },
+    "@emotion/styled/base": {
+      "src": "../../.yarn/__virtual__/@emotion-styled-virtual-a1599be49f/4/.yarn/berry/cache/@emotion-styled-npm-11.11.0-9a95c8527d-10c0.zip/node_modules/@emotion/styled/base/dist/emotion-styled-base.browser.esm.js",
+      "file": "@emotion_styled_base.js",
+      "fileHash": "fb8c6cf7",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-FBMWO2VE": {
+      "file": "chunk-FBMWO2VE.js"
+    },
+    "chunk-JUTIFOJY": {
+      "file": "chunk-JUTIFOJY.js"
+    },
+    "chunk-BSEWFE2Q": {
+      "file": "chunk-BSEWFE2Q.js"
+    },
+    "chunk-OGSXXHZC": {
+      "file": "chunk-OGSXXHZC.js"
+    },
+    "chunk-7DRDNJ3X": {
+      "file": "chunk-7DRDNJ3X.js"
+    },
+    "chunk-CCVGTZAU": {
+      "file": "chunk-CCVGTZAU.js"
+    }
+  }
+}
